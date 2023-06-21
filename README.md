@@ -1,1 +1,3 @@
-# Owner-avatar-terraform-aws-ec2-instance
+### Terraform_ec2_module
+
+A terraform module to provision AWS EC2 instance
